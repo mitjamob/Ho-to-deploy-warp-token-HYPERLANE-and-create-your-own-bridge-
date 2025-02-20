@@ -42,7 +42,8 @@ This guide will show  how to:
 10. Confirm the deployment plan = Y
 11. The script will check if there is enogh balance -in this case ETH on both chains in order to cover the gas fees for the deployment .
 12. Proceed with the deployment .
-13. The wend product of the deployment -if successfull , should look like this
+13. The end product of the deployment -if successfull , should look like this
+
     tokens:
       - chainName: arbitrum
         standard: EvmHypCollateral
@@ -61,9 +62,11 @@ This guide will show  how to:
         addressOrDenom: "0x72E51AcbE7bEff76d4273010a1470753FaD4Bd67"
         connections:
           - token: ethereum|arbitrum|0xb1D8278B3747866d7d67C41e7736ee674fdaa32A
+       
+            
      
        
-  Next : 
+  Next to come ...
 - Fork the Hyperlane Warp Route UI Template from the hyperlane-xyz repo on Github
 - build your own Hyperlane bridge with vercel app and import the deploymnet 
     
