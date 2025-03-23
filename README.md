@@ -69,4 +69,14 @@ This guide will show  how to:
   Next to come ...
 - Fork the Hyperlane Warp Route UI Template from the hyperlane-xyz repo on Github
 - build your own Hyperlane bridge with vercel app and import the deploymnet 
-      -https://jsonformatter.org/yaml-validator - 
+      -https://jsonformatter.org/yaml-validator -
+
+Prodject ID wallet connect 
+https://cloud.reown.com/sign-in
+
+Steps - Fork - Configure - Customize - Deploy via Vercel 
+
+Constants that we may want to change are in ./src/consts/, see the following Customization section for details.
+The index page is located at ./src/pages/index.tsx
+The primary features are implemented in ./src/features/
+
